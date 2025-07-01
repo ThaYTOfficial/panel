@@ -432,7 +432,7 @@ class RadarAPI {
           }
         ],
         footer: {
-          text: "Cracked by MoscowDDoS"
+          text: "BalloonHost Radar"
         }
       };
 
